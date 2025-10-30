@@ -5,7 +5,7 @@
 - Vishnu Sai Padyala (UFID: 32712860)
 - Srikar Panuganti (UFID: 38909216)
   
-- ## Project: Reddit Clone Engine & Simulator
+## Project: Reddit Clone Engine & Simulator
 - **Language**: Gleam (Functional, Actor-based)
 - **Target**: Erlang/BEAM VM
 
